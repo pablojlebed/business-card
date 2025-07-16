@@ -3,16 +3,16 @@ export default function Footer() {
     <footer>
       <div className="icons">
         <a href="https://x.com/pablolebed_dev">
-          <img src="/public/icons/twitter-icon.png" className="x" />
+          <img src="/icons/twitter-icon.png" className="x" />
         </a>
         <a href="https://www.facebook.com/profile.php?id=100007211627077">
-          <img src="/public/icons/facebook-icon.png" className="facebook" />
+          <img src="/icons/facebook-icon.png" className="facebook" />
         </a>
         <a href="https://www.instagram.com/pablolebed/">
-          <img src="/public/icons/instagram-icon.png" className="instagram" />
+          <img src="/icons/instagram-icon.png" className="instagram" />
         </a>
         <a href="https://github.com/pablojlebed">
-          <img src="/public/icons/github-icon.png" className="github" />
+          <img src="/icons/github-icon.png" className="github" />
         </a>
       </div>
     </footer>
