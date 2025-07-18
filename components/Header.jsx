@@ -2,7 +2,7 @@ export default function Header() {
   return (
     <header>
       <section className="header-top">
-        <img src="/images/pablo.jpg" alt="Profile picture" />
+        <img src="/images/pablo.png" alt="Profile picture" />
         <h1>Pablo J Lebed</h1>
         <h2>Frontend Developer</h2>
         <a href="https://pablolebed.dev">pablolebed.website</a>
