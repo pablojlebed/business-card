@@ -31,5 +31,5 @@ jobs:
           username: admin_pablo
           key: ${{ secrets.SERVER_SSH_KEY }}
           port: 22
-          source: "build/**"
+          source: "dist/**"
           target: "/var/www/business-card"
